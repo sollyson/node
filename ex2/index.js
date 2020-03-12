@@ -1,5 +1,6 @@
 // Importando as funções
 var funcoes = require("./js/funcoes")
+var http = require("http")
 
 var respota  = funcoes.maiuscula("o tal do bielzin")
 
